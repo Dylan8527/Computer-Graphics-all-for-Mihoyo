@@ -1,3 +1,42 @@
-# please don't submit my lecture pdf, otherwise someone will be killed by STU.
+# Prerequisites
+*.d
 
-*.pdf
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.DS_Store
+
+build
+cmake-build*
+out
+vs
+.idea
+.vscode
+.vs
